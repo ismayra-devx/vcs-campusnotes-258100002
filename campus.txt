@@ -1,0 +1,24 @@
+CampusNotes - Study Notes
+
+Subject: Version Control Systems (CSE25303)
+
+1. What is Git?
+   Git is a distributed version control system. It tracks changes to files
+   and lets many people work on the same project without overwriting
+   each other's work.
+
+2. Basic commands
+   git init      - start a new repository
+   git add       - stage changes
+   git commit    - save a snapshot of staged changes
+   git push      - upload commits to a remote repository
+   git pull      - download and merge changes from a remote
+
+3. Why branches matter
+   Branches let you build a feature or fix a bug on its own line of work.
+   When it is ready, it is merged back into main.
+
+4. Good commit messages
+   Use a short prefix such as feat, fix, docs, refactor or chore,
+   followed by a clear description of the change.
+   
