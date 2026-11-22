@@ -23,3 +23,9 @@ Subject: Version Control Systems (CSE25303)
    followed by a clear description of the change.
    
 
+Glossary
+
+repository - a project folder whose full history Git tracks
+commit     - a saved snapshot of staged changes
+branch     - an independent line of development
+remote     - a copy of the repository hosted elsewhere, e.g. on GitHub
