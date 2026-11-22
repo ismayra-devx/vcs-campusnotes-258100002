@@ -22,4 +22,4 @@ Subject: Version Control Systems (CSE25303)
    Use a short prefix such as feat, fix, docs, refactor or chore,
    followed by a clear description of the change.
    
-Added from the clone
+
