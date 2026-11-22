@@ -1,0 +1,1 @@
+Tags mark a specific commit, such as a release.
